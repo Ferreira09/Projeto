@@ -1,0 +1,104 @@
+#area {
+    position: relative;
+    left: 37%;
+    top: 29%;
+    width: 320px;
+    height: 270px;
+}
+
+#area #formulario {
+    position: relative;
+    display: block;
+}
+
+fieldset {
+    width: 300px;
+    height: 250px;
+}
+
+area {
+    position: relative;
+    left: 37%;
+    top: 29%;
+    width: 320px;
+    height: 270px;
+}
+
+#area #formulario {
+    position: relative;
+    display: block;
+}
+
+fieldset {
+    width: 300px;
+    height: 250px;
+}
+
+legend {
+    font-style: bold;
+    font-family: "Segoe UI"
+}
+
+#formulario label {
+    position: absolute;
+    left: 19px;
+    margin-right: 5px;
+}
+
+#area {
+    position: relative;
+    left: 37%;
+    top: 29%;
+    width: 320px;
+    height: 270px;
+}
+
+#area #formulario {
+    position: relative;
+    display: block;
+}
+
+fieldset {
+    width: 300px;
+    height: 250px;
+}
+
+legend {
+    font-style: bold;
+    font-family: "Segoe UI", "Arial", "Time New Roman";
+}
+
+#formulario input.name_nome {
+    position: absolute;
+    left: 95px;
+    top: 23px;
+    width: 225px;
+}
+
+#formulario input.name_CPF {
+    position: absolute;
+    left: 95px;
+    margin-top: 2px;
+    width: 225px;
+}
+
+#formulario input.name_nascimento {
+    position: absolute;
+    left: 95px;
+    margin-top: 2px;
+    width: 225px;
+}
+
+#formulario input.name_telefone {
+    position: absolute;
+    left: 95px;
+    margin-top: 2px;
+    width: 225px;
+}
+
+#formulario input.name_endereço {
+    position: absolute;
+    left: 95px;
+    margin-top: 2px;
+    width: 225px;
+}
